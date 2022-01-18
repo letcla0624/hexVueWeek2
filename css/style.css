@@ -38,3 +38,12 @@ body {
   right: 0;
   cursor: pointer;
 }
+.text-hover-warning:hover {
+  color: var(--bs-warning) !important;
+}
+.btn:focus{
+  box-shadow: none !important;
+}
+.fs-7 {
+  font-size: 14px;
+}
